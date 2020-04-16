@@ -13,6 +13,7 @@ numpy = "*"
 xlrd = "*"
 matplotlib = "*"
 altair = "*"
+untangle = "*"
 
 [requires]
 python_version = "3.8"
